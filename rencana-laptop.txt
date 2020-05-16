@@ -1,6 +1,8 @@
 RENCANA BELI LAPTOP
 - Ambil projek (freelance)
   * Mengerjakan project SWASTA atau Negeri
+    ^ Membantu dg cara mencari project & mengerjakannya
+    ^ Membuat kelas online dengan studi kasus yang dikerjakan
   * Mengambil Projek Sebagai UI/UX
 - Nabung dari hasil gajian
   * 30% - 50% dari gaji pokok
