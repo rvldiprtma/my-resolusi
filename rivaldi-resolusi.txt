@@ -1,0 +1,5 @@
+Halo, salam kenal saya Rivaldi dari Pemangkat.
+
+Resolusi saya:
+
+- Membuat framework javascript
